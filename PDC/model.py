@@ -82,4 +82,4 @@ clf.fit(X, y, batch_size=5,
         epochs=5,
         validation_split=0.3)
 
-clf.save('Seq_Final')
+clf.save('Seq_Acc-9185_Loss-2670_ValAcc-7738_ValLoss-7729__cat_33.model')
